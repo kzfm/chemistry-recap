@@ -28,21 +28,6 @@ perldoc command.
 
     perldoc Chemistry::RECAP
 
-You can also look for information at:
-
-    RT, CPAN's request tracker
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Chemistry-RECAP
-
-    AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/Chemistry-RECAP
-
-    CPAN Ratings
-        http://cpanratings.perl.org/d/Chemistry-RECAP
-
-    Search CPAN
-        http://search.cpan.org/dist/Chemistry-RECAP/
-
-
 COPYRIGHT AND LICENCE
 
 Copyright (C) 2009 kzfm
